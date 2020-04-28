@@ -4,11 +4,13 @@ date: 2020-04-01 18:51:00 Z
 tags:
 - Blog
 - Treasury
-layout: post
+- Agriculture
+- food security
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it
   and re-build the site to see your changes.
 img: post-11.jpg
 author: Benjamin Kobare
+layout: post
 ---
 
 According to a World Bank study, the gross domestic product (GDP) derived from agriculture is four times more effective in addressing rural poverty than that from other sectors of the economy.
