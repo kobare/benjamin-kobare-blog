@@ -1,12 +1,16 @@
 ---
+title: Treasury should give food security more funds
+date: 2020-04-01 18:51:00 Z
+tags:
+- Blog
+- Treasury
 layout: post
-title:  Treasury should give food security more funds
-date:   2020-04-01 21:51:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-11.jpg # Add image post (optional)
-tags: [Blog, Treasury]
-author: Benjamin Kobare # Add name author (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it
+  and re-build the site to see your changes.
+img: post-11.jpg
+author: Benjamin Kobare
 ---
+
 According to a World Bank study, the gross domestic product (GDP) derived from agriculture is four times more effective in addressing rural poverty than that from other sectors of the economy.
 
 Since the government census records confirm that 70 percent of the population resides in rural areas, it is better off investing adequately in agribusiness subsector if it intends to improve livelihoods, create sustainable employment, lift the populace out of poverty, improve external and homeland security and double revenues.
